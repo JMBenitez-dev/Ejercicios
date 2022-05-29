@@ -27,3 +27,4 @@ document.getElementById("btnCalcular").addEventListener("click", () => {
     );
   }
 });
+//esta bien tu solucion
